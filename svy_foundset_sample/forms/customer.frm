@@ -1,0 +1,10 @@
+customProperties:"formComponent:false,\
+layout:{\
+responsive:true\
+}",
+dataSource:"db:/example_data/customers",
+encapsulation:60,
+name:"customer",
+showInMenu:true,
+typeid:3,
+uuid:"9F75722A-D1FD-4615-8DC6-9BBD215F79DB"
