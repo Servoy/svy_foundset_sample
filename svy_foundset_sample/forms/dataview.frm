@@ -1,0 +1,15 @@
+customProperties:"formComponent:false",
+dataSource:"db:/example_data/orders",
+encapsulation:60,
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"38E6CF92-0415-4212-A987-19C2ACB1D9F3"
+}
+],
+name:"dataview",
+showInMenu:true,
+typeid:3,
+uuid:"FA9FCD28-0338-4E1E-B49C-B198547F9615"
