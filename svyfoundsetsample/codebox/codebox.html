@@ -1,7 +1,7 @@
 <pre class="prettyprint linenums nocode">
 <code>
 <ol class="linenums">
-<li class="L{{$index}}" ng-repeat="line in model.codeLines"><span>{{line}}</span></li>
+<li class="L{{$index}}" ng-repeat="line in model.codeLines track by $index"><span class="pln">{{model.codeLines[$index]}}</span></li>
 </ol>
 </code>
 </pre>

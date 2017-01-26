@@ -21,6 +21,7 @@ function printMethodCode(functionToPrint) {
 			}
 		}
 		
+		relevantLines.pop();
 		var relevantCode = relevantLines.join('\n');
 		application.output(relevantCode);
 		
