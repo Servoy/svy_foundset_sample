@@ -23,6 +23,9 @@ function printMethodCode(functionToPrint) {
 		
 		var relevantCode = relevantLines.join('\n');
 		application.output(relevantCode);
+		
+		forms.method_code.setMethodCode(relevantLines);
+		
 		return relevantCode;
 	} else {
 		return null;
