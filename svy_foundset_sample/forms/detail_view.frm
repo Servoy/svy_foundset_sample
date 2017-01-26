@@ -1,0 +1,15 @@
+customProperties:"formComponent:false",
+dataSource:"db:/example_data/customers",
+encapsulation:60,
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"0E81B481-39E3-425C-A304-3ABEDD933ECD"
+}
+],
+name:"detail_view",
+showInMenu:true,
+typeid:3,
+uuid:"745901CE-8020-409A-B21C-8F10592A555B"
