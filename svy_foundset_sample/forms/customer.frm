@@ -38,12 +38,12 @@ y:116
 onActionMethodID:"F32F0A3A-3E9E-4B17-B470-B6E430D2931B",
 size:{
 height:25,
-width:90
+width:74
 }
 },
 location:"64,116",
 name:"delete_record",
-size:"90,25",
+size:"74,25",
 typeName:"servoyextra-fontawesome",
 typeid:47,
 uuid:"6085F7F0-FC29-4EFB-AA70-484C0B5CE3DE"

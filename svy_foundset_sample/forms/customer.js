@@ -3,8 +3,8 @@
  * @properties={typeid:24,uuid:"F32F0A3A-3E9E-4B17-B470-B6E430D2931B"}
  */
 function deleteRecord(){
+	databaseManager.startTransaction();
 	foundset.deleteRecord();
-	
 }
 
 /**

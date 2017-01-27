@@ -22,3 +22,16 @@ function newRecord(){
 function onSearch(event) {
 	forms.customer.searchRecords(searchTerm);
 }
+
+/**
+ * Callback method when form is (re)loaded.
+ *
+ * @param {JSEvent} event the event that triggered the action
+ *
+ * @private
+ *
+ * @properties={typeid:24,uuid:"4C0D90EF-3E95-488B-980A-323A0C5BD086"}
+ */
+function onLoad(event) {
+	databaseManager.setAutoSave(false);
+}
