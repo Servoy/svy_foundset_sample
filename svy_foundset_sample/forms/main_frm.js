@@ -2,7 +2,7 @@
  * @properties={typeid:24,uuid:"4CDB1446-EC5D-4BBC-8D23-878B140852EC"}
  */
 function getName(){
-	return 'Foundset API';
+	return 'Foundset';
 }
 
 /**
@@ -16,5 +16,5 @@ function getDescription(){
  * @properties={typeid:24,uuid:"F82E5CB7-841E-40B5-90BD-F3B71B4EB0D8"}
  */
 function getIconStyleClass(){
-	return '';
+	return 'fa-database';
 }
