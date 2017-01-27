@@ -35,3 +35,16 @@ function onSearch(event) {
 function onLoad(event) {
 	databaseManager.setAutoSave(false);
 }
+
+/**
+ * Perform the element default action.
+ *
+ * @param {JSEvent} event the event that triggered the action
+ *
+ * @private
+ *
+ * @properties={typeid:24,uuid:"8225F8B5-F3F8-49E8-9DDF-A3EDCDBAA30D"}
+ */
+function onFindMode(event) {
+	forms.customer.enterFindMode();
+}
