@@ -36,6 +36,7 @@ json:{
 containedForm:"6659ED96-9C72-4FE0-BF53-E22393FAA7AE",
 height:640
 },
+location:"1,1",
 name:"tablesspanel",
 typeName:"bootstrapcomponents-tablesspanel",
 typeid:47,
