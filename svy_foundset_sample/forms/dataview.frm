@@ -6,6 +6,15 @@ encapsulation:60,
 items:[
 {
 customProperties:"attributes:{\
+class:\"container-fluid\"\
+},\
+properties:{\
+packagename:\"12grid\",\
+specname:\"container\"\
+}",
+items:[
+{
+customProperties:"attributes:{\
 class:\"row\"\
 },\
 properties:{\
@@ -64,6 +73,11 @@ uuid:"5A464799-460C-42D7-A3D2-E812982C8BAF"
 location:"1,1",
 typeid:46,
 uuid:"5EF19305-DD6E-4C73-BABB-E3E1418A8E85"
+}
+],
+location:"2,2",
+typeid:46,
+uuid:"810D0690-9DEF-4194-A14F-5BEAA282B825"
 }
 ],
 name:"dataview",

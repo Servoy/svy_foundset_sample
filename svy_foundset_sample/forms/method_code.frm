@@ -32,6 +32,7 @@ specname:\"column\"\
 }",
 items:[
 {
+location:"1,1",
 name:"codebox",
 typeName:"svyfoundsetsample-codebox",
 typeid:47,
@@ -54,6 +55,7 @@ uuid:"5506B5B3-5795-4427-9E1D-3A7F8F45876B"
 }
 ],
 name:"method_code",
+navigatorID:"-1",
 showInMenu:true,
 typeid:3,
 uuid:"EE520502-3B52-464D-A293-F32A07EAD3F3"

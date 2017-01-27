@@ -9,15 +9,6 @@ typeid:19,
 uuid:"85223762-DA83-49F8-896D-8EBCECFE5A05"
 },
 {
-dataProviderID:"companyname",
-location:"277,106",
-name:"Company",
-size:"269,20",
-text:"Company",
-typeid:4,
-uuid:"D495D184-8C7E-4D4C-944D-803D7B2C17F7"
-},
-{
 anchors:11,
 dataProviderID:"contactname",
 location:"63,71",
