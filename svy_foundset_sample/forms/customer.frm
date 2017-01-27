@@ -14,7 +14,7 @@ uuid:"23231298-3ABC-48D8-ADA2-69167D2D6EC2"
 labelFor:"contact",
 location:"13,20",
 size:"152,20",
-text:"Contact",
+text:"Contact Name",
 transparent:true,
 typeid:7,
 uuid:"28332772-79E5-4AF7-B69C-1BA984CB9D2F"
@@ -32,16 +32,16 @@ uuid:"4CC09B77-A7AB-4525-892F-1A058E662A19"
 json:{
 faclass:"fa-remove",
 location:{
-x:72,
-y:113
+x:64,
+y:116
 },
-onActionMethodID:"DE286B00-E6F8-407E-B1D6-8AED05C3C02C",
+onActionMethodID:"F32F0A3A-3E9E-4B17-B470-B6E430D2931B",
 size:{
 height:25,
 width:90
 }
 },
-location:"72,113",
+location:"64,116",
 name:"delete_record",
 size:"90,25",
 typeName:"servoyextra-fontawesome",
